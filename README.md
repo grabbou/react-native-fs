@@ -1,4 +1,4 @@
-## react-native-fs
+## react-native-fss
 
 Native filesystem access for react-native
 
